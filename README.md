@@ -56,29 +56,18 @@ Student Union of the Faculty of Computers and Information - Assiut University  |
 
 I taught a Machine Learning course in cooperation with the Student Union of the Faculty of Computers and Information - Assiut University, and I explained the following:
 
-**•**  Python Basics
-
-**•**  Packages (Numpy, Pandas & Matplotlib)
-
-**•**  Overview Of Machine Learning
-
-**•**  Regression Model
-
-**•**  Gradient Descent
-
-**•**  Multiple Linear Regression
-
-**•**  Gradient Descent in Practice
-
-**•**  Classification With Logistic Regression
-
-**•**  Cost Function & Gradient Descent For Logistic Regression
-
-**•**  The Overfitting Problem
-
-**•**  Machine Learning With Scikit-Learn, Practices and Projects
-
-**•**  Introduction to Neural Networks
+- Python Basics
+- Packages (Numpy, Pandas & Matplotlib)
+- Overview Of Machine Learning
+- Regression Model
+- Gradient Descent
+- Multiple Linear Regression
+- Gradient Descent in Practice
+- Classification With Logistic Regression
+- Cost Function & Gradient Descent For Logistic Regression
+- The Overfitting Problem
+- Machine Learning With Scikit-Learn, Practices and Projects
+- Introduction to Neural Networks
 
 In addition, I explained and implemented many projects, whether from scratch or using the Scikit-Learn library during the course period.
 
