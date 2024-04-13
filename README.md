@@ -23,7 +23,7 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 
 # About
 
-Computer Science student at the Faculty of Computers and Information, Assiut University with a fervent interest in utilizing machine learning, deep learning, data science, and data analysis to create innovative solutions. Proficient in various programming languages, including C, C++, Java, C#, and Python, I possess valuable problem-solving skills and hands-on experience in ASP.NET MVC and Flask. Beyond technical expertise, I excel in teaching, work cooperation, and team leadership. Currently working as a Programming & AI Instructor, I teach children programming in languages such as Scratch and Python, imparting knowledge on artificial intelligence. Eager to collaborate with talented professionals and contribute to meaningful advancements in the field of computer science.
+Computer Science student at the Faculty of Computers and Information, Assiut University with a fervent interest in utilizing machine learning, deep learning, data science, and data analysis to create innovative solutions. Proficient in various programming languages, including C, C++, Java, C#, and Python, I possess valuable problem-solving skills and hands-on experience in ASP.NET MVC and Flask. Beyond technical expertise, I excel in teaching, work cooperation, and team leadership. Currently working as a Programming & AI Instructor, I teach children programming in languages such as Scratch and Python, imparting knowledge on artificial intelligence. Additionally, I am passionate about fostering the next generation's interest in technology and education, and as a Programming Educational Content Creator for Kids and Teens, I develop engaging content to teach Python programming concepts to young learners. Eager to collaborate with talented professionals and contribute to meaningful advancements in the field of computer science.
 
 # Contact
 
@@ -43,15 +43,24 @@ eslamabdo71239@gmail.com
 
 # Experience
 
+**Programming Educational Content Creator for Kids and Teens using Python language**
+
+Tweet Kod  |  2024.03 – Present
+
+I create programming educational content for kids and teens in the Python language. I am responsible for the practical application of the ideas that were explained and setting questions after each unit (quiz) and the graduation project for the courses.
+
 **Programming & AI Instructor**
+
 Future kids & Codemy  |  2024.01 – Present
 
 I work as a Programming & AI Instructor for children from 6 to 20 years old. I teach them programming in different programming languages such as Scratch and Python. I also teach them artificial intelligence.
 
 **Director of Research & Development Committee**
+
 ACM Assiut University Student Chapter  |  2023.10 – Present
 
 **Machine Learning Instructor**
+
 Student Union of the Faculty of Computers and Information - Assiut University  |  2023.9 – 2023.11
 
 I taught a Machine Learning course in cooperation with the Student Union of the Faculty of Computers and Information - Assiut University, and I explained the following:
@@ -83,6 +92,7 @@ In addition, I explained and implemented many projects, whether from scratch or 
 - **PHP**
 - **MATLAB**
 - **Scratch**
+- **HTML**
 
 ## Conceptual Knowledge
 
@@ -181,6 +191,12 @@ Titanic Survivor Prediction using Random Forest.
 Use a neural network to recognize the hand-written digits 0-9.
 
 [GitHub link](https://github.com/Islam-hady9/Neural-Networks-for-Handwritten-Digit-Recognition-Multiclass-Classification.git)
+
+**Amaze Game Using The Hill Climbing Algorithm**
+
+I built an amaze game as an example to explain moving or directing robot navigation using the Hill Climbing algorithm and its branches. In this game, you will play the role of a robot trying to reach the goal in a text maze. You have to think smartly to guide the robot through the maze and reach the goal without crashing into the walls.
+
+[GitHub link](https://github.com/Islam-hady9/Amaze-game-using-the-Hill-Climbing-algorithm)
 
 **Cars Prices Prediction with Flask**
 
