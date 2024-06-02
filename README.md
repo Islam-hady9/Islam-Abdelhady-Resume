@@ -174,6 +174,12 @@ MaharaTech  |  2023.02
 
 # Projects
 
+**Heart Attack Analysis Prediction using ANN**
+
+This project involves the analysis and prediction of heart attacks using Artificial Neural Networks (ANN). The goal is to develop a predictive model that can accurately identify the likelihood of a heart attack based on various health metrics and patient data.
+
+[GitHub link](https://github.com/Islam-hady9/Heart-Attack-Analysis-Prediction-using-ANN)
+
 **Credit Card Fraud Detection using Decision Tree**
 
 Credit Card Fraud Detection using Decision Tree & Trees Ensemble (Random Forest & XGBoost).
@@ -221,6 +227,12 @@ Use Neural Networks to classify Breast Cancer as Benign or Malignant.
 SONAR Rock vs Mine Prediction using Logistic Regression.
 
 [GitHub link](https://github.com/Islam-hady9/SONAR-Rock-vs-Mine-Prediction.git)
+
+**Company System With Distributed Database**
+
+Company System With Distributed Database using GO Project Description: Distributed Database Server and Client in Go.
+
+[GitHub link](https://github.com/Islam-hady9/Company-System-With-Distributed-Database)
 
 **Machine Learning Algorithms From Scratch**
 
